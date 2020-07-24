@@ -7,7 +7,7 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 <p align="center">
  [![](https://i.ytimg.com/vi/EA-wcFtUBE4/hqdefault.jpg)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
 </p>
-
+[![](https://i.ytimg.com/vi/EA-wcFtUBE4/hqdefault.jpg)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
 [Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) TedTalk "Unleash your creativity in a Fab Lab". 
 
 [Fab Charter](https://fab.cba.mit.edu/about/charter/): El año 2012, el [MIT, Center of Bits and Atoms o CBA](http://cba.mit.edu/) desarrolla el Fab Charter, una seríe de preguntas clave sobre las condiciones que rigen un Fab Lab. 
