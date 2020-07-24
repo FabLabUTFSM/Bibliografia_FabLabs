@@ -6,15 +6,16 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fab_Lab_logo.svg/330px-Fab_Lab_logo.svg.png)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
+
 [Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) TedTalk "Unleash your creativity in a Fab Lab". 
 
 [Fab Charter](https://fab.cba.mit.edu/about/charter/): El año 2012, el [MIT, Center of Bits and Atoms o CBA](http://cba.mit.edu/) desarrolla el Fab Charter, una seríe de preguntas clave sobre las condiciones que rigen un Fab Lab. 
 
 ### Libros
 
-[Fab](insertar link): El año 2011, Neil Gershenfeld se publica Fab donde se explica la revolución que la manufactura digital traerá en la forma en que concebimos el desarrollo de productos. 
+[Fab](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/FAB%20The%20Coming%20Revolution%20on%20Your%20Desktop--From%20Personal%20Computers%20to%20Personal%20Fabrication%20by%20Neil%20Gershenfeld%20(z-lib.org).pdf): El año 2011, Neil Gershenfeld se publica Fab donde se explica la revolución que la manufactura digital traerá en la forma en que concebimos el desarrollo de productos. 
 
-[Design Reality](insertar link): Neil Gershenfeld analiza lo que denomina la tercera revolución de en la computación, la unión del mundo digital y fisico a través de la manufactura digital. 
+[Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina la tercera revolución de en la computación, la unión del mundo digital y fisico a través de la manufactura digital. 
 
 
 ## Comunidad Fab Lab    
@@ -33,11 +34,11 @@ La [Red chilena de Fab Labs](https://www.instagram.com/redchilenadefablabs/), es
 
 El 2017, [Fab Lab Santiago](http://fablabsantiago.org/) se adjudica la organizacion de la conferencia internacional de Fab Labs  [Fab 13](https://fab13.fabevent.org/) para Chile, y reune a todos los Fab Labs de Chile en torno a la organización de esta.
 
-Bajo ese contexto el estado de la ecosistema de fabricación digital en Chile. Todo queda documentado en el informe [Taller Co-creación de la Red Chilena de Plataformas de Fabricación Digital](inserte link). 
+Bajo ese contexto el estado de la ecosistema de fabricación digital en Chile. Todo queda documentado en el informe [Taller Co-creación de la Red Chilena de Plataformas de Fabricación Digital](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/InformeFabLab.pdf). 
 
 Finalmente la organización de este evento genera un conflicto entre quienes dirigen estos laboratorios, lo que termina en la disolución de la Red. 
 
-En el año 2019 10 Fab Labs re contruyen la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, todo esto queda documentado en el informe [Informe JornadaFabLabCL](inserte link). 
+En el año 2019 10 Fab Labs re contruyen la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, todo esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
 
 ### Proyectos Fab Labs 
 
@@ -53,6 +54,7 @@ Necesitamos reinventar nuestras ciudades, su relación con las personas y la nat
 
 ##### Libros 
 [Fab City Whitepaper](https://www.cowerk.org/data/cowerk/user_upload/Dateien/Tomas_Diez_whitepaper_fablab_barcelona.pdf)
+
 [Fab City - The Mass Distribution of [Almost] Everything](https://www.cowerk.org/data/cowerk/user_upload/Dateien/Tomas_Diez_whitepaper_fablab_barcelona.pdf)
 
 #### Fab Lat Kids Network
@@ -67,3 +69,38 @@ Proyecto de investigación desarrollado por el CBA que busca desarrollar máquin
 
 [Pagina web oficial](https://mtm.cba.mit.edu/)
 
+#### BioMateriales
+
+Siguiendo la logica de contruir casi cualquier cosa dentro de los Fab Labs es que toma fuerza la ídea de desarrollar materiales para farbicación digital dentro de estos. 
+Los BioMateriales son materiales hechos a partir de productos biodegradables, y por lo general residuos con el fin de cambiar los materiales que se utilizan acutalmente dentro del laboratorio por materiales sustentables que respodan a la idea de Economia Circular. 
+
+[Repositorio de Formulas](https://materiom.org/)
+
+
+## Fab Lab UTFSM
+
+Con el fin de mejorar los procesos de gestión internos de Fab Lab UTFSM diversos trabajos han sido realizados por alumnos, como parte de sus clases o memorias, o por asesores externos. A continuación los informes en que se documentan sus trabajos: 
+
+[PROPUESTA DE PLAN DE MANTENIMIENTO EN ACTIVOS CRÍTICOS DE FABLAB UNIVERSITARIO](inserte Link)
+
+*Resumen*
+Inicialmente se recopila información y se documenta la situación actual de la organización, para posteriormente proponer una forma de trabajar la información disponible y verificar la calidad de esta mediante la norma ISO 14.224. Ya teniendo conocimiento de la situación actual y de la calidad de información recopilada, se procede a realizar a la evaluación de criticidad mediante la norma ISO 31.000. 
+Haciendo referencia a la norma se establecen valoraciones para definir qué impacto han tenido para la organización las fallas registradas de sus equipos, con lo cual se seleccionan los más críticos. 
+Ya habiéndose seleccionado los activos críticos, se determinan acciones de mantenimiento mediante la metodología RCM donde se reconocen los modos de falla, y se seleccionan los de mayor impacto para la organización, los cuales son tratados mediante acciones proactivas de mantenimiento y tareas de búsquedas de fallas.  
+Se genera un sistema de administración del trabajo que permita sustentar el área de mantenimiento apoyado de herramientas LEAN y se genera un plan de mantenimiento añadiendo actividades rutinarias adicionales en conjunto con las determinadas por el análisis RCM. Se estiman y comparan los costos anuales de mantenimiento, generándose una reducción esperada mayor al 50%. 
+
+["Apoyo a la formulación de estrategias de posicionamiento, desarrollo y crecimiento del Laboratorio FABLAB"](inserte Link)
+
+*Resumen*
+
+Con fecha 01.Ene.2019, la Universidad Técnica Federico Santa María (UTFSM) contrató con KONCEPT Ltda. una asesoría profesional de apoyo a la formulación de estrategias de
+posicionamiento, desarrollo y crecimiento de su laboratorio FABLAB, ubicado en el Campus Santiago - San Joaquín de la Universidad, y al fortalecimiento de sus procesos, su estructura
+operativa y su organización.
+Los trabajos propuestos consideraban realizar un trabajo conjunto con la dirección de dicho laboratorio, para describir en forma sucinta la misión y requerimientos de la universidad y el grado de alineamiento del FABLAB con dichas necesidades. Se abordarían también posibles esquemas de gobierno corporativo del laboratorio, de modo de asegurar su inserción a largo
+plazo dentro de la universidad.
+
+[Mejora de la tasa de utilización del FabLab UTFSM en San Joaquín](inserte Link)
+
+*Resumen*
+
+En el contexto de la asignatura Mejoramiento Continuo, alumnos del departamento de mecánica levantan información sobre la comunicación de Fab Lab hacia los alumnos de San Joaquín, la percepción de estos sobre el espacio, y las necesidades de uso.   
