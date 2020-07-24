@@ -4,8 +4,9 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 ## Que es un Fab Lab 
 
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fab_Lab_logo.svg/330px-Fab_Lab_logo.svg.png)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
+<p align="center">
+ [![](https://i.ytimg.com/vi/EA-wcFtUBE4/hqdefault.jpg)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
+</p>
 
 [Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) TedTalk "Unleash your creativity in a Fab Lab". 
 
@@ -81,7 +82,7 @@ Los BioMateriales son materiales hechos a partir de productos biodegradables, y 
 
 Con el fin de mejorar los procesos de gestión internos de Fab Lab UTFSM diversos trabajos han sido realizados por alumnos, como parte de sus clases o memorias, o por asesores externos. A continuación los informes en que se documentan sus trabajos: 
 
-[PROPUESTA DE PLAN DE MANTENIMIENTO EN ACTIVOS CRÍTICOS DE FABLAB UNIVERSITARIO](inserte Link)
+[PROPUESTA DE PLAN DE MANTENIMIENTO EN ACTIVOS CRÍTICOS DE FABLAB UNIVERSITARIO](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Trabajo%20de%20T%C3%ADtulo%20Francisco%20Gallardo%20(Final).pdf)
 
 *Resumen*
 Inicialmente se recopila información y se documenta la situación actual de la organización, para posteriormente proponer una forma de trabajar la información disponible y verificar la calidad de esta mediante la norma ISO 14.224. Ya teniendo conocimiento de la situación actual y de la calidad de información recopilada, se procede a realizar a la evaluación de criticidad mediante la norma ISO 31.000. 
@@ -89,7 +90,7 @@ Haciendo referencia a la norma se establecen valoraciones para definir qué impa
 Ya habiéndose seleccionado los activos críticos, se determinan acciones de mantenimiento mediante la metodología RCM donde se reconocen los modos de falla, y se seleccionan los de mayor impacto para la organización, los cuales son tratados mediante acciones proactivas de mantenimiento y tareas de búsquedas de fallas.  
 Se genera un sistema de administración del trabajo que permita sustentar el área de mantenimiento apoyado de herramientas LEAN y se genera un plan de mantenimiento añadiendo actividades rutinarias adicionales en conjunto con las determinadas por el análisis RCM. Se estiman y comparan los costos anuales de mantenimiento, generándose una reducción esperada mayor al 50%. 
 
-["Apoyo a la formulación de estrategias de posicionamiento, desarrollo y crecimiento del Laboratorio FABLAB"](inserte Link)
+["Apoyo a la formulación de estrategias de posicionamiento, desarrollo y crecimiento del Laboratorio FABLAB"](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/FLAB01_951_10%20Minuta%20Cierre.pdf)
 
 *Resumen*
 
@@ -99,7 +100,7 @@ operativa y su organización.
 Los trabajos propuestos consideraban realizar un trabajo conjunto con la dirección de dicho laboratorio, para describir en forma sucinta la misión y requerimientos de la universidad y el grado de alineamiento del FABLAB con dichas necesidades. Se abordarían también posibles esquemas de gobierno corporativo del laboratorio, de modo de asegurar su inserción a largo
 plazo dentro de la universidad.
 
-[Mejora de la tasa de utilización del FabLab UTFSM en San Joaquín](inserte Link)
+[Mejora de la tasa de utilización del FabLab UTFSM en San Joaquín](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe%20MC%20en%20FabLab%20UTFSM.pdf)
 
 *Resumen*
 
