@@ -19,8 +19,7 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 <p align="center">
 
-[![](https://i.ytimg.com/vi/EA-wcFtUBE4/hqdefault.jpg)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
-
+    [![](https://i.ytimg.com/vi/EA-wcFtUBE4/hqdefault.jpg)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
 </p>
 
 [Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) TedTalk "Unleash your creativity in a Fab Lab". 
@@ -73,7 +72,7 @@ Necesitamos reinventar nuestras ciudades, su relación con las personas y la nat
 ##### Libros 
 [Fab City Whitepaper](https://www.cowerk.org/data/cowerk/user_upload/Dateien/Tomas_Diez_whitepaper_fablab_barcelona.pdf)
 
-[Fab City - The Mass Distribution of [Almost] Everything](https://www.cowerk.org/data/cowerk/user_upload/Dateien/Tomas_Diez_whitepaper_fablab_barcelona.pdf)
+[Fab City - The Mass Distribution of [Almost] Everything](https://iaac.net/fab-city-the-mass-distribution-of-almost-everything/#:~:text=Cities%20of%20today%20reflect%20the,according%20to%20the%20United%20Nations).)
 
 #### Fab Lat Kids Network
 
@@ -86,6 +85,8 @@ Comunidad internacional enfocada en promover el proceso de aprendizaje mediante 
 Proyecto de investigación desarrollado por el CBA que busca desarrollar máquinas para Fab Labs dentro de Fab Labs, con el fin de que estos sean autoreplicables. 
 
 [Pagina web oficial](https://mtm.cba.mit.edu/)
+
+[Fab Academy Recitation - Machines](https://vimeo.com/424899829)
 
 #### BioMateriales
 
@@ -122,3 +123,41 @@ plazo dentro de la universidad.
 *Resumen*
 
 En el contexto de la asignatura Mejoramiento Continuo, alumnos del departamento de mecánica levantan información sobre la comunicación de Fab Lab hacia los alumnos de San Joaquín, la percepción de estos sobre el espacio, y las necesidades de uso.   
+
+## Blogs de internet y repositorios de modelos 3D
+
+[Repositorio Fab Lab UTFSM](https://github.com/FabLabUTFSM): Proyectos desarrollados por Fab Lab UTFSM. 
+
+[Intructables](https://www.instructables.com/): Repositorio de tutoriales sin tematica definida. Abarca electronica, uso de máquinas, carpintería, cocina, etc. 
+
+[Hackster.io ](https://www.hackster.io/): Comunidad de desarrolladores principalmente orientada a la electronica. 
+
+[Thinigiverse](https://www.thingiverse.com/): Comunidad de diseñadores principalmente orientada a la impresión 3D. 
+
+[GrabCad](https://grabcad.com/): Comunidad de diseñadores principalmente orientada a la ingeniería mecánica. 
+
+[Fab Fpundation Library](https://library.fabfoundation.org/): Repositorio de articulos con tematicas afines a fab labs. 
+
+## Fab Lab Management 
+
+A continuación se presentan documentos, articulos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
+
+Respositorios: 
+
+- [Fab Foundation - How to start a MakerSpace](https://library.fabfoundation.org/)
+- [International Journal of Academic Makerspaces and Making](https://ijamm.pubpub.org/)
+
+Documentos recomendados: 
+
+## Fab Lab y Emprendimiento
+
+A continuación se presentan documentos, articulos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
+
+Respositorios: 
+
+- [Fab Foundation - How to start a MakerSpace](https://library.fabfoundation.org/)
+
+Documentos recomendados: 
+
+
+
