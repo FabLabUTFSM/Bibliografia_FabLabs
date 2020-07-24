@@ -10,8 +10,6 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 </p>
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fab_Lab_logo.svg/330px-Fab_Lab_logo.svg.png)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
-
 [Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) TedTalk "Unleash your creativity in a Fab Lab". 
 
 [Fab Charter](https://fab.cba.mit.edu/about/charter/): El año 2012, el [MIT, Center of Bits and Atoms o CBA](http://cba.mit.edu/) desarrolla el Fab Charter, una seríe de preguntas clave sobre las condiciones que rigen un Fab Lab. 
@@ -27,23 +25,25 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 [Fab Foundation](https://fabfoundation.org/): Creada el año 2009, desde el CBA, como su área de extensión, tiene como fin facilitar y apoyar el crecimiento de la red global de Fab Labs. 
 
-[Fab Central](https://fab.cba.mit.edu/): Fab Lab MIT, ubicado en el Center of Bits and Atoms, Media Lab. 
+[Fab Central](https://fab.cba.mit.edu/): Fab Lab MIT, ubicado en el Center of Bits and Atoms, Media Lab, MIT. 
 
-[FabLabs.io][https://www.fablabs.io/]: Directorio de Fab Labs global. Ha aumentado sus funciones, integrando un repositorio de proyectos OpenSource/Hardware. 
+[FabLabs.io](https://www.fablabs.io/): Directorio de Fab Labs global. Ha aumentado sus funciones, integrando un repositorio de proyectos OpenSource/Hardware. 
 
 [FabX](https://fabevent.org/): Conferencia internacional de Fab Labs, se realiza de forma anual. Este año 2020, se realizará de forma virtual, mas información en el siguiente [link](https://fabxlive.fabevent.org/).
 
 ### Comunidad en Chile 
 
-La [Red chilena de Fab Labs](https://www.instagram.com/redchilenadefablabs/), esta marcada por dos grandes etapas. 
+La [Red chilena de Fab Labs](https://www.instagram.com/redchilenadefablabs/), esta marcada por dos grandes etapas: 
 
 El 2017, [Fab Lab Santiago](http://fablabsantiago.org/) se adjudica la organizacion de la conferencia internacional de Fab Labs  [Fab 13](https://fab13.fabevent.org/) para Chile, y reune a todos los Fab Labs de Chile en torno a la organización de esta.
 
-Bajo ese contexto el estado de la ecosistema de fabricación digital en Chile. Todo queda documentado en el informe [Taller Co-creación de la Red Chilena de Plataformas de Fabricación Digital](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/InformeFabLab.pdf). 
+Bajo ese contexto de desarrolla un informe que analiza el estado de la ecosistema de fabricación digital en Chile: 
+
+[Taller Co-creación de la Red Chilena de Plataformas de Fabricación Digital](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/InformeFabLab.pdf). 
 
 Finalmente la organización de este evento genera un conflicto entre quienes dirigen estos laboratorios, lo que termina en la disolución de la Red. 
 
-En el año 2019 10 Fab Labs re contruyen la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, todo esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
+En el año 2019 distintos Fab Labs deciden reocntruir la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
 
 ### Proyectos Fab Labs 
 
