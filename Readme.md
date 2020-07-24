@@ -19,7 +19,8 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 <p align="center">
 
-    [![](https://i.ytimg.com/vi/EA-wcFtUBE4/hqdefault.jpg)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
+[![](https://i.ytimg.com/vi/EA-wcFtUBE4/hqdefault.jpg)](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab)
+
 </p>
 
 [Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) TedTalk "Unleash your creativity in a Fab Lab". 
