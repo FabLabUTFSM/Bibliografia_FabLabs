@@ -1,4 +1,3 @@
-- [Bibliogáfia Fab Labs](#bibliog-fia-fab-labs)
   * [Que es un Fab Lab](#que-es-un-fab-lab)
     + [Libros](#libros)
   * [Comunidad Fab Lab](#comunidad-fab-lab)
@@ -10,6 +9,9 @@
       - [Machines that Make (MTM)](#machines-that-make--mtm-)
       - [BioMateriales](#biomateriales)
   * [Fab Lab UTFSM](#fab-lab-utfsm)
+  * [Blogs de internet y repositorios de modelos 3D](#blogs-de-internet-y-repositorios-de-modelos-3d)
+  * [Fab Lab Management](#fab-lab-management)
+  * [Fab Lab y Emprendimiento](#fab-lab-y-emprendimiento)
 
 # Bibliogáfia Fab Labs 
 
@@ -137,7 +139,7 @@ En el contexto de la asignatura Mejoramiento Continuo, alumnos del departamento 
 
 [GrabCad](https://grabcad.com/): Comunidad de diseñadores principalmente orientada a la ingeniería mecánica. 
 
-[Fab Fpundation Library](https://library.fabfoundation.org/): Repositorio de articulos con tematicas afines a fab labs. 
+[Fab Foundation Library](https://library.fabfoundation.org/): Repositorio de articulos con tematicas afines a fab labs. 
 
 ## Fab Lab Management 
 
