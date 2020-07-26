@@ -150,7 +150,17 @@ Respositorios:
 - [Fab Foundation - How to start a MakerSpace](https://library.fabfoundation.org/)
 - [International Journal of Academic Makerspaces and Making](https://ijamm.pubpub.org/)
 
-Documentos recomendados: 
+### Documentos recomendados
+
+#### Fab Labs administrados por estudiantes
+
+[Invetion Studio - Georgia Tech](https://inventionstudio.gatech.edu/)
+    - [Safety in a Student-Run Makerspace via Peer-to-Peer Adaptive Training](link)
+
+[iForge - Sheffield](https://iforgesheffield.org/):
+    - [Five Misperceptions You Need to Overcome When Starting a Makerspace](link)
+
+
 
 ## Fab Lab y Emprendimiento
 
@@ -158,9 +168,11 @@ A continuación se presentan documentos, articulos, papers o softwares orientado
 
 Respositorios: 
 
-- [Fab Foundation - How to start a MakerSpace](https://library.fabfoundation.org/)
+- [Fab Foundation - Entrepreneurship](https://library.fabfoundation.org/)
 
-Documentos recomendados: 
+### Documentos recomendados
 
+- [The Role of Makerspaces in Product Development of Hardware Start-Ups](link)
+- [The role of academic Makerspaces in product creation -  Matching between hardware entrepreneur's requests and Maker Movement elements on offer ](link)
 
 
