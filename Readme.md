@@ -11,7 +11,10 @@
   * [Fab Lab UTFSM](#fab-lab-utfsm)
   * [Blogs de internet y repositorios de modelos 3D](#blogs-de-internet-y-repositorios-de-modelos-3d)
   * [Fab Lab Management](#fab-lab-management)
+    + [Documentos recomendados](#documentos-recomendados)
+      - [Fab Labs administrados por estudiantes](#fab-labs-administrados-por-estudiantes)
   * [Fab Lab y Emprendimiento](#fab-lab-y-emprendimiento)
+    + [Documentos recomendados](#documentos-recomendados-1)
 
 # Bibliogáfia Fab Labs 
 
