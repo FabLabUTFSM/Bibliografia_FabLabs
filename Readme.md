@@ -155,10 +155,12 @@ Respositorios:
 #### Fab Labs administrados por estudiantes
 
 [Invetion Studio - Georgia Tech](https://inventionstudio.gatech.edu/)
-    - [Safety in a Student-Run Makerspace via Peer-to-Peer Adaptive Training](link)
+
+    - [Safety in a Student-Run Makerspace via Peer-to-Peer Adaptive Training](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/131a203b-7b4c-4423-9bac-4cb2c2525f4a.pdf)
 
 [iForge - Sheffield](https://iforgesheffield.org/):
-    - [Five Misperceptions You Need to Overcome When Starting a Makerspace](link)
+
+    - [Five Misperceptions You Need to Overcome When Starting a Makerspace](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/9848cb7d-be0f-45ca-9a40-89a79819b64e.pdf)
 
 
 
@@ -172,7 +174,7 @@ Respositorios:
 
 ### Documentos recomendados
 
-- [The Role of Makerspaces in Product Development of Hardware Start-Ups](link)
-- [The role of academic Makerspaces in product creation -  Matching between hardware entrepreneur's requests and Maker Movement elements on offer ](link)
+- [The Role of Makerspaces in Product Development of Hardware Start-Ups](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/44b10712-0328-44a7-bce5-ae619a057e84.pdf)
+- [The role of academic Makerspaces in product creation -  Matching between hardware entrepreneur's requests and Maker Movement elements on offer ](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/31583759398068.pdf)
 
 
