@@ -180,4 +180,4 @@ Respositorios:
 - [The role of academic Makerspaces in product creation -  Matching between hardware entrepreneur's requests and Maker Movement elements on offer ](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/31583759398068.pdf)
 
 
-Este documento fue escrito por [José Tomás Domínguez](https://library.fabfoundation.org/), y corregido por [Maximiliano Rivera](https://github.com/maxriverau). 
+Este documento fue escrito por [José Tomás Domínguez](https://library.fabfoundation.org/), y corregido por [Maximiliano Rivera](https://github.com/maxriverau) y [Javier de la Cerda](https://github.com/Javier-desing). 
