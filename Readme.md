@@ -130,6 +130,12 @@ plazo dentro de la universidad.
 
 En el contexto de la asignatura Mejoramiento Continuo, alumnos del departamento de mecánica levantan información sobre la comunicación de Fab Lab hacia los alumnos de San Joaquín, la percepción de estos sobre el espacio, y las necesidades de uso.   
 
+[Modelo de Datos FabLab UTFSM](link)
+
+*Resumen*
+Modelo de base de datos desarrollado por [Pablo Albornoz](https://github.com/orgs/FabLabUTFSM/people/fixmycode), para control interno de la data generada en Fab Lab UTFSM. 
+
+
 ## Blogs de internet y repositorios de modelos 3D
 
 [Repositorio Fab Lab UTFSM](https://github.com/FabLabUTFSM): Proyectos desarrollados por Fab Lab UTFSM. 
