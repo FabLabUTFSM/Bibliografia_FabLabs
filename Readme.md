@@ -158,6 +158,7 @@ Respositorios:
 #### Fab Labs administrados por estudiantes
 
 [Invetion Studio - Georgia Tech](https://inventionstudio.gatech.edu/)
+- [The Invention Studio: A University Maker Space  and  Culture](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/131a203b-7b4c-4423-9bac-4cb2c2525f4a.pdf)
 - [Safety in a Student-Run Makerspace via Peer-to-Peer Adaptive Training](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/131a203b-7b4c-4423-9bac-4cb2c2525f4a.pdf)
 
 [iForge - Sheffield](https://iforgesheffield.org/):
