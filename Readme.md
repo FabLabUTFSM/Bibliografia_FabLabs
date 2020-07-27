@@ -161,7 +161,7 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 ### Documentos recomendados
 
-[MakerCon: Ian Charnas - Managing a Makespace, How to automate everythin](https://www.youtube.com/watch?v=SYKm4nszufw)
+[MakerCon: Ian Charnas - Managing a Makespace, How to automate everything](https://www.youtube.com/watch?v=SYKm4nszufw)
 
 #### Fab Labs administrados por estudiantes
 
