@@ -1,4 +1,4 @@
-  * [Que es un Fab Lab](#que-es-un-fab-lab)
+  * [Qué es un Fab Lab?](#que-es-un-fab-lab)
     + [Libros](#libros)
   * [Comunidad Fab Lab](#comunidad-fab-lab)
     + [Comunidad en Chile](#comunidad-en-chile)
@@ -18,9 +18,9 @@
 
 # Bibliogáfia Fab Labs 
 
-Este repositorio busca entregar a los lectores toda la infomación a cerca de los Fab Labs, su proposit, sus proyectos, sus redes, su organización, etc.  
+Este repositorio busca entregar a los lectores toda la infomación a cerca de los Fab Labs, su propósito, sus proyectos, sus redes, su organización, etc.  
 
-## Que es un Fab Lab 
+## Qué es un Fab Lab ?
 
 <p align="center">
 
@@ -30,18 +30,18 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 [Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) TedTalk "Unleash your creativity in a Fab Lab". 
 
-[Fab Charter](https://fab.cba.mit.edu/about/charter/): El año 2012, el [MIT, Center of Bits and Atoms o CBA](http://cba.mit.edu/) desarrolla el Fab Charter, una seríe de preguntas clave sobre las condiciones que rigen un Fab Lab. 
+[Fab Charter](https://fab.cba.mit.edu/about/charter/): El año 2012, el [MIT, Center of Bits and Atoms o CBA](http://cba.mit.edu/) desarrolla el Fab Charter, una serie de preguntas clave sobre las condiciones que rigen un Fab Lab. 
 
 ### Libros
 
-[Fab](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/FAB%20The%20Coming%20Revolution%20on%20Your%20Desktop--From%20Personal%20Computers%20to%20Personal%20Fabrication%20by%20Neil%20Gershenfeld%20(z-lib.org).pdf): El año 2011, Neil Gershenfeld se publica Fab donde se explica la revolución que la manufactura digital traerá en la forma en que concebimos el desarrollo de productos. 
+[Fab](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/FAB%20The%20Coming%20Revolution%20on%20Your%20Desktop--From%20Personal%20Computers%20to%20Personal%20Fabrication%20by%20Neil%20Gershenfeld%20(z-lib.org).pdf): El año 2011, Neil Gershenfeld publica Fab, donde se explica la revolución que la manufactura digital traerá en la forma en que concebimos el desarrollo de productos. 
 
-[Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina la tercera revolución de en la computación, la unión del mundo digital y fisico a través de la manufactura digital. 
+[Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina: "la tercera revolución de en la computación", la unión del mundo digital y físico a través de la manufactura digital. 
 
 
 ## Comunidad Fab Lab    
 
-[Fab Foundation](https://fabfoundation.org/): Creada el año 2009, desde el CBA, como su área de extensión, tiene como fin facilitar y apoyar el crecimiento de la red global de Fab Labs. 
+[Fab Foundation](https://fabfoundation.org/): Creada el año 2009 desde el CBA, como su área de extensión, tiene como fin facilitar y apoyar el crecimiento de la red global de Fab Labs. 
 
 [Fab Central](https://fab.cba.mit.edu/): Fab Lab MIT, ubicado en el Center of Bits and Atoms, Media Lab, MIT. 
 
@@ -51,9 +51,9 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 ### Comunidad en Chile 
 
-La [Red chilena de Fab Labs](https://www.instagram.com/redchilenadefablabs/), esta marcada por dos grandes etapas: 
+La [Red chilena de Fab Labs](https://www.instagram.com/redchilenadefablabs/), está marcada por dos grandes etapas: 
 
-El 2017, [Fab Lab Santiago](http://fablabsantiago.org/) se adjudica la organizacion de la conferencia internacional de Fab Labs  [Fab 13](https://fab13.fabevent.org/) para Chile, y reune a todos los Fab Labs de Chile en torno a la organización de esta.
+El 2017, [Fab Lab Santiago](http://fablabsantiago.org/) se adjudica la organización de la conferencia internacional de Fab Labs  [Fab 13](https://fab13.fabevent.org/) para Chile, y reune a todos los Fab Labs de Chile en torno a la organización de esta.
 
 Bajo ese contexto de desarrolla un informe que analiza el estado de la ecosistema de fabricación digital en Chile: 
 
@@ -61,7 +61,7 @@ Bajo ese contexto de desarrolla un informe que analiza el estado de la ecosistem
 
 Finalmente la organización de este evento genera un conflicto entre quienes dirigen estos laboratorios, lo que termina en la disolución de la Red. 
 
-En el año 2019 distintos Fab Labs deciden reocntruir la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
+En el año 2019 distintos Fab Labs deciden reconstruir la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
 
 ### Proyectos Fab Labs 
 
@@ -82,7 +82,7 @@ Necesitamos reinventar nuestras ciudades, su relación con las personas y la nat
 
 #### Fab Lat Kids Network
 
-Comunidad internacional enfocada en promover el proceso de aprendizaje mediante la incorporación de nuevas tecnologías que aportan el Know How de una Red Latinoamericana de Laboratorios de Fabricación Digital, con el objetivo de repensar la educación del futuro.
+Comunidad internacional enfocada en promover el proceso de aprendizaje mediante la incorporación de nuevas tecnologías que aportan el Knowhow de una Red Latinoamericana de Laboratorios de Fabricación Digital, con el objetivo de repensar la educación del futuro.
 
 [Pagina web oficial](https://www.fablabs.io/organizations/fab-lat-kids-b66ed4b7-43e3-490a-ae06-c0e063958b14)
 
@@ -96,7 +96,7 @@ Proyecto de investigación desarrollado por el CBA que busca desarrollar máquin
 
 #### BioMateriales
 
-Siguiendo la logica de contruir casi cualquier cosa dentro de los Fab Labs es que toma fuerza la ídea de desarrollar materiales para farbicación digital dentro de estos. 
+Siguiendo la logica de contruir casi cualquier cosa dentro de los Fab Labs es que toma fuerza la idea de desarrollar materiales para farbicación digital dentro de estos. 
 Los BioMateriales son materiales hechos a partir de productos biodegradables, y por lo general residuos con el fin de cambiar los materiales que se utilizan acutalmente dentro del laboratorio por materiales sustentables que respodan a la idea de Economia Circular. 
 
 [Repositorio de Formulas](https://materiom.org/)
@@ -118,7 +118,7 @@ Se genera un sistema de administración del trabajo que permita sustentar el ár
 
 *Resumen*
 
-Con fecha 01.Ene.2019, la Universidad Técnica Federico Santa María (UTFSM) contrató con KONCEPT Ltda. una asesoría profesional de apoyo a la formulación de estrategias de
+Con fecha 01.Ene.2019, la Universidad Técnica Federico Santa María (UTFSM) contrató a KONCEPT Ltda, para desarrollar una asesoría profesional de apoyo a la formulación de estrategias de
 posicionamiento, desarrollo y crecimiento de su laboratorio FABLAB, ubicado en el Campus Santiago - San Joaquín de la Universidad, y al fortalecimiento de sus procesos, su estructura
 operativa y su organización.
 Los trabajos propuestos consideraban realizar un trabajo conjunto con la dirección de dicho laboratorio, para describir en forma sucinta la misión y requerimientos de la universidad y el grado de alineamiento del FABLAB con dichas necesidades. Se abordarían también posibles esquemas de gobierno corporativo del laboratorio, de modo de asegurar su inserción a largo
@@ -134,19 +134,19 @@ En el contexto de la asignatura Mejoramiento Continuo, alumnos del departamento 
 
 [Repositorio Fab Lab UTFSM](https://github.com/FabLabUTFSM): Proyectos desarrollados por Fab Lab UTFSM. 
 
-[Intructables](https://www.instructables.com/): Repositorio de tutoriales sin tematica definida. Abarca electronica, uso de máquinas, carpintería, cocina, etc. 
+[Intructables](https://www.instructables.com/): Repositorio de tutoriales sin temática definida. Abarca electrónica, uso de máquinas, carpintería, cocina, etc. 
 
-[Hackster.io ](https://www.hackster.io/): Comunidad de desarrolladores principalmente orientada a la electronica. 
+[Hackster.io ](https://www.hackster.io/): Comunidad de desarrolladores principalmente orientada a la electrónica. 
 
 [Thinigiverse](https://www.thingiverse.com/): Comunidad de diseñadores principalmente orientada a la impresión 3D. 
 
 [GrabCad](https://grabcad.com/): Comunidad de diseñadores principalmente orientada a la ingeniería mecánica. 
 
-[Fab Foundation Library](https://library.fabfoundation.org/): Repositorio de articulos con tematicas afines a fab labs. 
+[Fab Foundation Library](https://library.fabfoundation.org/): Repositorio de articulos con temáticas afines a fab labs. 
 
 ## Fab Lab Management 
 
-A continuación se presentan documentos, articulos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
+A continuación se presentan documentos, artículos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
 
 Respositorios: 
 
@@ -168,7 +168,7 @@ Respositorios:
 
 ## Fab Lab y Emprendimiento
 
-A continuación se presentan documentos, articulos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
+A continuación se presentan documentos, artículos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
 
 Respositorios: 
 
