@@ -161,6 +161,8 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 ### Documentos recomendados
 
+[MakerCon: Ian Charnas - Managing a Makespace, How to automate everythin](https://www.youtube.com/watch?v=SYKm4nszufw)
+
 #### Fab Labs administrados por estudiantes
 
 [Invetion Studio - Georgia Tech](https://inventionstudio.gatech.edu/)
