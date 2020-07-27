@@ -148,7 +148,7 @@ En el contexto de la asignatura Mejoramiento Continuo, alumnos del departamento 
 
 A continuación se presentan documentos, artículos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
 
-Respositorios: 
+### Respositorios: 
 
 - [Fab Foundation - How to start a MakerSpace](https://library.fabfoundation.org/)
 - [International Journal of Academic Makerspaces and Making](https://ijamm.pubpub.org/)
@@ -161,7 +161,7 @@ Respositorios:
 - [The Invention Studio: A University Maker Space  and  Culture](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/EJ1076126.pdf)
 - [Safety in a Student-Run Makerspace via Peer-to-Peer Adaptive Training](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/131a203b-7b4c-4423-9bac-4cb2c2525f4a.pdf)
 
-[iForge - Sheffield](https://iforgesheffield.org/):
+[iForge - Sheffield](https://iforgesheffield.org/)
 
 - [Five Misperceptions You Need to Overcome When Starting a Makerspace](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/9848cb7d-be0f-45ca-9a40-89a79819b64e.pdf)
 
@@ -171,7 +171,7 @@ Respositorios:
 
 A continuación se presentan documentos, artículos, papers o softwares orientados a la gestión de Fab Labs y recopilación de información. 
 
-Respositorios: 
+### Respositorios: 
 
 - [Fab Foundation - Entrepreneurship](https://library.fabfoundation.org/)
 
