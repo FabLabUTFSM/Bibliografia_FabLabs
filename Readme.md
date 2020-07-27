@@ -114,16 +114,6 @@ Haciendo referencia a la norma se establecen valoraciones para definir qué impa
 Ya habiéndose seleccionado los activos críticos, se determinan acciones de mantenimiento mediante la metodología RCM donde se reconocen los modos de falla, y se seleccionan los de mayor impacto para la organización, los cuales son tratados mediante acciones proactivas de mantenimiento y tareas de búsquedas de fallas.  
 Se genera un sistema de administración del trabajo que permita sustentar el área de mantenimiento apoyado de herramientas LEAN y se genera un plan de mantenimiento añadiendo actividades rutinarias adicionales en conjunto con las determinadas por el análisis RCM. Se estiman y comparan los costos anuales de mantenimiento, generándose una reducción esperada mayor al 50%. 
 
-["Apoyo a la formulación de estrategias de posicionamiento, desarrollo y crecimiento del Laboratorio FABLAB"](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/FLAB01_951_10%20Minuta%20Cierre.pdf)
-
-*Resumen*
-
-Con fecha 01.Ene.2019, la Universidad Técnica Federico Santa María (UTFSM) contrató a KONCEPT Ltda, para desarrollar una asesoría profesional de apoyo a la formulación de estrategias de
-posicionamiento, desarrollo y crecimiento de su laboratorio FABLAB, ubicado en el Campus Santiago - San Joaquín de la Universidad, y al fortalecimiento de sus procesos, su estructura
-operativa y su organización.
-Los trabajos propuestos consideraban realizar un trabajo conjunto con la dirección de dicho laboratorio, para describir en forma sucinta la misión y requerimientos de la universidad y el grado de alineamiento del FABLAB con dichas necesidades. Se abordarían también posibles esquemas de gobierno corporativo del laboratorio, de modo de asegurar su inserción a largo
-plazo dentro de la universidad.
-
 [Mejora de la tasa de utilización del FabLab UTFSM en San Joaquín](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe%20MC%20en%20FabLab%20UTFSM.pdf)
 
 *Resumen*
@@ -161,7 +151,7 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 ### Documentos recomendados
 
-[MakerCon: Ian Charnas - Managing a Makespace, How to automate everythin](https://www.youtube.com/watch?v=SYKm4nszufw)
+[MakerCon: Ian Charnas - Managing a Makespace, How to automate everything](https://www.youtube.com/watch?v=SYKm4nszufw)
 
 #### Fab Labs administrados por estudiantes
 
