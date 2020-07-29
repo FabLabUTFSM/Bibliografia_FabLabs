@@ -163,16 +163,21 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 #### Estandarización de procesos
 [MakerCon: Ian Charnas - Managing a Makespace, How to automate everything](https://www.youtube.com/watch?v=SYKm4nszufw)
+
 [USING RECIPES FOR A GREAT MAKERSPACE](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/RecipesV10.pdf)
 
 #### Business Model
 [Made in Baltimore: Business Planning for Makerspaces](https://makezine.com/2016/03/21/made-baltimore-business-planning-makerspaces/)
+
 [Business Models for Fab Labs](http://www.openp2pdesign.org/2011/fabbing/business-models-for-fab-labs/)
 
 #### Guias de como crear y gestionar un MakerSpace/FabLab
 [Make a Space kit](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/make-a-space-kit.pdf)
+
 [Make Nexus - Member Handbok](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/Member%20Handbook%20as%20of%204_10_2019.pdf)
+
 [The Fab Lab Life Cycle](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/finalreportofthefablablifecycleworkshops-140916091330-phpapp02.pdf)
+
 [Building a Hacker Space](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/Hacker-Space-Design-Patterns.pdf)
 
 #### Fab Labs administrados por estudiantes
@@ -209,7 +214,7 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 ## Repositorios MakerMovement/Fab Labs general
 - [Research on the Maker Movement](https://docs.google.com/document/d/1yRyWCpd1IpTuyM7ck6xWOvAzbqNmo9B1vKRbOu_-MeE/edit#)
-- [Fab Foundation - Entrepreneurship](https://library.fabfoundation.org/)
+- [Fab Foundation](https://library.fabfoundation.org/)
 
 
 Este documento fue escrito por [José Tomás Domínguez](https://library.fabfoundation.org/), y corregido por [Maximiliano Rivera](https://github.com/maxriverau) y [Javier de la Cerda](https://github.com/Javier-desing). 
