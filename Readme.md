@@ -217,4 +217,3 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 - [Fab Foundation](https://library.fabfoundation.org/)
 
 
-Este documento fue escrito por [José Tomás Domínguez](https://library.fabfoundation.org/), y corregido por [Maximiliano Rivera](https://github.com/maxriverau) y [Javier de la Cerda](https://github.com/Javier-desing). 
