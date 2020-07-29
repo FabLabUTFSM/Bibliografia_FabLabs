@@ -1,4 +1,4 @@
-  * [Qué es un Fab Lab?](#que-es-un-fab-lab)
+ * [Qué es un Fab Lab ?](#qu--es-un-fab-lab--)
     + [Libros](#libros)
   * [Comunidad Fab Lab](#comunidad-fab-lab)
     + [Comunidad en Chile](#comunidad-en-chile)
@@ -11,16 +11,24 @@
   * [Fab Lab UTFSM](#fab-lab-utfsm)
   * [Blogs de internet y repositorios de modelos 3D](#blogs-de-internet-y-repositorios-de-modelos-3d)
   * [Fab Lab Management](#fab-lab-management)
+    + [Respositorios:](#respositorios-)
     + [Documentos recomendados](#documentos-recomendados)
+      - [Estandarización de procesos](#estandarizaci-n-de-procesos)
+      - [Business Model](#business-model)
+      - [Guias de como crear y gestionar un MakerSpace/FabLab](#guias-de-como-crear-y-gestionar-un-makerspace-fablab)
       - [Fab Labs administrados por estudiantes](#fab-labs-administrados-por-estudiantes)
+      - [Herramientas de gestión de activos](#herramientas-de-gesti-n-de-activos)
+        * [Herramientas](#herramientas)
   * [Fab Lab y Emprendimiento](#fab-lab-y-emprendimiento)
+    + [Respositorios:](#respositorios--1)
     + [Documentos recomendados](#documentos-recomendados-1)
+  * [Repositorios MakerMovement/Fab Labs general](#repositorios-makermovement-fab-labs-general)
 
-# Bibliogafía Fab Labs 
+# Bibliográfia Fab Labs 
 
 Este repositorio busca entregar a los lectores toda la infomación a cerca de los Fab Labs, su propósito, sus proyectos, sus redes, su organización, etc.  
 
-## ¿Qué es un Fab Lab?
+## Qué es un Fab Lab ?
 
 <p align="center">
 
@@ -36,7 +44,9 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 [Fab](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/FAB%20The%20Coming%20Revolution%20on%20Your%20Desktop--From%20Personal%20Computers%20to%20Personal%20Fabrication%20by%20Neil%20Gershenfeld%20(z-lib.org).pdf): El año 2011, Neil Gershenfeld publica Fab, donde se explica la revolución que la manufactura digital traerá en la forma en que concebimos el desarrollo de productos. 
 
-[Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina: "la tercera revolución de la computación", la unión del mundo digital y físico a través de la manufactura digital. 
+[Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina: "la tercera revolución de en la computación", la unión del mundo digital y físico a través de la manufactura digital. 
+
+[Fab Lab Guide](ink)
 
 
 ## Comunidad Fab Lab    
@@ -55,13 +65,13 @@ La [Red chilena de Fab Labs](https://www.instagram.com/redchilenadefablabs/), es
 
 El 2017, [Fab Lab Santiago](http://fablabsantiago.org/) se adjudica la organización de la conferencia internacional de Fab Labs  [Fab 13](https://fab13.fabevent.org/) para Chile, y reune a todos los Fab Labs de Chile en torno a la organización de esta.
 
-Bajo ese contexto de desarrolla un informe que analiza el estado del ecosistema de fabricación digital en Chile: 
+Bajo ese contexto de desarrolla un informe que analiza el estado de la ecosistema de fabricación digital en Chile: 
 
 [Taller Co-creación de la Red Chilena de Plataformas de Fabricación Digital](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/InformeFabLab.pdf). 
 
 Finalmente la organización de este evento genera un conflicto entre quienes dirigen estos laboratorios, lo que termina en la disolución de la Red. 
 
-En el año 2019 distintos Fab Labs deciden reconstruir la red, definiendo sus objetivos y propósito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
+En el año 2019 distintos Fab Labs deciden reconstruir la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
 
 ### Proyectos Fab Labs 
 
@@ -71,7 +81,7 @@ Proyecto a través del cual los Fab Labs buscan transformar la relación que exi
 
 *Resumen:*
 
-Necesitamos reinventar nuestras ciudades, su relación con las personas y la naturaleza mediante la relocalización de la producción, con el objetivo de que las ciudades sean productivas en lugar de extractivas, restauradoras en lugar de destructivas, y empoderar en lugar de alienar, donde la prosperidad se fortalece, y las personas tienen un propósito, a través de un trabajo con propósito y que disfrutan, que les permite usar su pasión y talento. Necesitamos recuperar el conocimiento y la capacidad sobre cómo se hacen las cosas en nuestras ciudades, conectando a los ciudadanos con las tecnologías avanzadas que están transformando nuestra vida cotidiana. 
+Necesitamos reinventar nuestras ciudades, su relación con las personas y la naturaleza mediante la relocalización de la producción, con el objetivo de que las ciudades sean productivas en lugar de extractivas, restauradoras en lugar de destructivas, y empoderar en lugar de alienar, donde la prosperidad se fortalece, y las personas tienen un propósito, a través de un trabajo con proposito y que disfrutan, que les permite usar su pasión y talento. Necesitamos recuperar el conocimiento y la capacidad sobre cómo se hacen las cosas en nuestras ciudades, conectando a los ciudadanos con las tecnologías avanzadas que están transformando nuestra vida cotidiana. 
 
 [Pagina web oficial](https://fab.city/)
 
@@ -84,7 +94,7 @@ Necesitamos reinventar nuestras ciudades, su relación con las personas y la nat
 
 Comunidad internacional enfocada en promover el proceso de aprendizaje mediante la incorporación de nuevas tecnologías que aportan el Knowhow de una Red Latinoamericana de Laboratorios de Fabricación Digital, con el objetivo de repensar la educación del futuro.
 
-[Página web oficial](https://www.fablabs.io/organizations/fab-lat-kids-b66ed4b7-43e3-490a-ae06-c0e063958b14)
+[Pagina web oficial](https://www.fablabs.io/organizations/fab-lat-kids-b66ed4b7-43e3-490a-ae06-c0e063958b14)
 
 #### Machines that Make (MTM)
 
@@ -96,15 +106,15 @@ Proyecto de investigación desarrollado por el CBA que busca desarrollar máquin
 
 #### BioMateriales
 
-Siguiendo la lógica de contruir casi cualquier cosa dentro de los Fab Labs es que toma fuerza la idea de desarrollar materiales para farbicación digital dentro de estos. 
-Los BioMateriales son materiales hechos a partir de productos biodegradables, y por lo general residuos, con el fin de cambiar los materiales que se utilizan acutalmente dentro del laboratorio por materiales sustentables que respondan a la idea de Economía Circular. 
+Siguiendo la logica de contruir casi cualquier cosa dentro de los Fab Labs es que toma fuerza la idea de desarrollar materiales para farbicación digital dentro de estos. 
+Los BioMateriales son materiales hechos a partir de productos biodegradables, y por lo general residuos con el fin de cambiar los materiales que se utilizan acutalmente dentro del laboratorio por materiales sustentables que respodan a la idea de Economia Circular. 
 
-[Repositorio de Fórmulas](https://materiom.org/)
+[Repositorio de Formulas](https://materiom.org/)
 
 
 ## Fab Lab UTFSM
 
-Con el fin de mejorar los procesos de gestión internos de Fab Lab UTFSM, diversos trabajos han sido realizados por alumnos como parte de sus clases o memorias, o por asesores externos. A continuación los informes en que se documentan sus trabajos: 
+Con el fin de mejorar los procesos de gestión internos de Fab Lab UTFSM diversos trabajos han sido realizados por alumnos, como parte de sus clases o memorias, o por asesores externos. A continuación los informes en que se documentan sus trabajos: 
 
 [PROPUESTA DE PLAN DE MANTENIMIENTO EN ACTIVOS CRÍTICOS DE FABLAB UNIVERSITARIO](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Trabajo%20de%20T%C3%ADtulo%20Francisco%20Gallardo%20(Final).pdf)
 
@@ -151,7 +161,19 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 ### Documentos recomendados
 
+#### Estandarización de procesos
 [MakerCon: Ian Charnas - Managing a Makespace, How to automate everything](https://www.youtube.com/watch?v=SYKm4nszufw)
+[USING RECIPES FOR A GREAT MAKERSPACE](link)
+
+#### Business Model
+[Made in Baltimore: Business Planning for Makerspaces](https://makezine.com/2016/03/21/made-baltimore-business-planning-makerspaces/)
+[Business Models for Fab Labs](http://www.openp2pdesign.org/2011/fabbing/business-models-for-fab-labs/)
+
+#### Guias de como crear y gestionar un MakerSpace/FabLab
+[Make a Space kit](link)
+[Make Nexus - Member Handbok](link)
+[The Fab Lab Life Cycle](link)
+[Building a Hacker Space](link)
 
 #### Fab Labs administrados por estudiantes
 
@@ -163,6 +185,13 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 - [Five Misperceptions You Need to Overcome When Starting a Makerspace](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/9848cb7d-be0f-45ca-9a40-89a79819b64e.pdf)
 
+#### Herramientas de gestión de activos
+[MAKING FABLABS SMART THROUGH SENSORS AND BIG DATA ANALYSIS](link)
+
+##### Herramientas
+
+ - [FabMan](https://fabman.io/)
+ - [3D Printer OS](https://fabman.io/)
 
 
 ## Fab Lab y Emprendimiento
@@ -177,6 +206,10 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 - [The Role of Makerspaces in Product Development of Hardware Start-Ups](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/44b10712-0328-44a7-bce5-ae619a057e84.pdf)
 - [The role of academic Makerspaces in product creation -  Matching between hardware entrepreneur's requests and Maker Movement elements on offer ](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/31583759398068.pdf)
+
+## Repositorios MakerMovement/Fab Labs general
+- [Research on the Maker Movement](https://docs.google.com/document/d/1yRyWCpd1IpTuyM7ck6xWOvAzbqNmo9B1vKRbOu_-MeE/edit#)
+- [Fab Foundation - Entrepreneurship](https://library.fabfoundation.org/)
 
 
 Este documento fue escrito por [José Tomás Domínguez](https://library.fabfoundation.org/), y corregido por [Maximiliano Rivera](https://github.com/maxriverau) y [Javier de la Cerda](https://github.com/Javier-desing). 
