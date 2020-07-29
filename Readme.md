@@ -46,7 +46,7 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 [Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina: "la tercera revolución de en la computación", la unión del mundo digital y físico a través de la manufactura digital. 
 
-[Fab Lab Guide](ink)
+[Fab Lab Guide](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/BU%20FabLabs%20Document%20AW%20AWv3.pdf)
 
 
 ## Comunidad Fab Lab    
@@ -163,17 +163,17 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 
 #### Estandarización de procesos
 [MakerCon: Ian Charnas - Managing a Makespace, How to automate everything](https://www.youtube.com/watch?v=SYKm4nszufw)
-[USING RECIPES FOR A GREAT MAKERSPACE](link)
+[USING RECIPES FOR A GREAT MAKERSPACE](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/RecipesV10.pdf)
 
 #### Business Model
 [Made in Baltimore: Business Planning for Makerspaces](https://makezine.com/2016/03/21/made-baltimore-business-planning-makerspaces/)
 [Business Models for Fab Labs](http://www.openp2pdesign.org/2011/fabbing/business-models-for-fab-labs/)
 
 #### Guias de como crear y gestionar un MakerSpace/FabLab
-[Make a Space kit](link)
-[Make Nexus - Member Handbok](link)
-[The Fab Lab Life Cycle](link)
-[Building a Hacker Space](link)
+[Make a Space kit](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/make-a-space-kit.pdf)
+[Make Nexus - Member Handbok](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/Member%20Handbook%20as%20of%204_10_2019.pdf)
+[The Fab Lab Life Cycle](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/finalreportofthefablablifecycleworkshops-140916091330-phpapp02.pdf)
+[Building a Hacker Space](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/Hacker-Space-Design-Patterns.pdf)
 
 #### Fab Labs administrados por estudiantes
 
@@ -186,7 +186,7 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 - [Five Misperceptions You Need to Overcome When Starting a Makerspace](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/9848cb7d-be0f-45ca-9a40-89a79819b64e.pdf)
 
 #### Herramientas de gestión de activos
-[MAKING FABLABS SMART THROUGH SENSORS AND BIG DATA ANALYSIS](link)
+[MAKING FABLABS SMART THROUGH SENSORS AND BIG DATA ANALYSIS](https://github.com/FabLabUTFSM/Bibliografia_FabLabs/blob/master/Documentos/Fab11_paper_5.pdf)
 
 ##### Herramientas
 
