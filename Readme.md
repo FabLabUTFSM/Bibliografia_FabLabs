@@ -16,11 +16,11 @@
   * [Fab Lab y Emprendimiento](#fab-lab-y-emprendimiento)
     + [Documentos recomendados](#documentos-recomendados-1)
 
-# Bibliogáfia Fab Labs 
+# Bibliogafía Fab Labs 
 
 Este repositorio busca entregar a los lectores toda la infomación a cerca de los Fab Labs, su propósito, sus proyectos, sus redes, su organización, etc.  
 
-## Qué es un Fab Lab ?
+## ¿Qué es un Fab Lab?
 
 <p align="center">
 
@@ -36,7 +36,7 @@ Este repositorio busca entregar a los lectores toda la infomación a cerca de lo
 
 [Fab](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/FAB%20The%20Coming%20Revolution%20on%20Your%20Desktop--From%20Personal%20Computers%20to%20Personal%20Fabrication%20by%20Neil%20Gershenfeld%20(z-lib.org).pdf): El año 2011, Neil Gershenfeld publica Fab, donde se explica la revolución que la manufactura digital traerá en la forma en que concebimos el desarrollo de productos. 
 
-[Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina: "la tercera revolución de en la computación", la unión del mundo digital y físico a través de la manufactura digital. 
+[Design Reality](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Designing%20Reality%20How%20to%20Survive%20and%20Thrive%20in%20the%20Third%20Digital%20Revolution%20by%20Neil%20Gershenfeld%2C%20Alan%20Gershenfeld%2C%20Joel%20Cutcher-Gershenfeld%20(z-lib.org).epub): Neil Gershenfeld analiza lo que denomina: "la tercera revolución de la computación", la unión del mundo digital y físico a través de la manufactura digital. 
 
 
 ## Comunidad Fab Lab    
@@ -55,13 +55,13 @@ La [Red chilena de Fab Labs](https://www.instagram.com/redchilenadefablabs/), es
 
 El 2017, [Fab Lab Santiago](http://fablabsantiago.org/) se adjudica la organización de la conferencia internacional de Fab Labs  [Fab 13](https://fab13.fabevent.org/) para Chile, y reune a todos los Fab Labs de Chile en torno a la organización de esta.
 
-Bajo ese contexto de desarrolla un informe que analiza el estado de la ecosistema de fabricación digital en Chile: 
+Bajo ese contexto de desarrolla un informe que analiza el estado del ecosistema de fabricación digital en Chile: 
 
 [Taller Co-creación de la Red Chilena de Plataformas de Fabricación Digital](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/InformeFabLab.pdf). 
 
 Finalmente la organización de este evento genera un conflicto entre quienes dirigen estos laboratorios, lo que termina en la disolución de la Red. 
 
-En el año 2019 distintos Fab Labs deciden reconstruir la red, definiendo sus objetivos y proposito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
+En el año 2019 distintos Fab Labs deciden reconstruir la red, definiendo sus objetivos y propósito en la 1° Jornada 2020 de la Red Chilena de Fab Labs, esto queda documentado en el informe [Informe JornadaFabLabCL](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Informe_JornadaFabLabCL_27052020.pdf). 
 
 ### Proyectos Fab Labs 
 
@@ -71,7 +71,7 @@ Proyecto a través del cual los Fab Labs buscan transformar la relación que exi
 
 *Resumen:*
 
-Necesitamos reinventar nuestras ciudades, su relación con las personas y la naturaleza mediante la relocalización de la producción, con el objetivo de que las ciudades sean productivas en lugar de extractivas, restauradoras en lugar de destructivas, y empoderar en lugar de alienar, donde la prosperidad se fortalece, y las personas tienen un propósito, a través de un trabajo con proposito y que disfrutan, que les permite usar su pasión y talento. Necesitamos recuperar el conocimiento y la capacidad sobre cómo se hacen las cosas en nuestras ciudades, conectando a los ciudadanos con las tecnologías avanzadas que están transformando nuestra vida cotidiana. 
+Necesitamos reinventar nuestras ciudades, su relación con las personas y la naturaleza mediante la relocalización de la producción, con el objetivo de que las ciudades sean productivas en lugar de extractivas, restauradoras en lugar de destructivas, y empoderar en lugar de alienar, donde la prosperidad se fortalece, y las personas tienen un propósito, a través de un trabajo con propósito y que disfrutan, que les permite usar su pasión y talento. Necesitamos recuperar el conocimiento y la capacidad sobre cómo se hacen las cosas en nuestras ciudades, conectando a los ciudadanos con las tecnologías avanzadas que están transformando nuestra vida cotidiana. 
 
 [Pagina web oficial](https://fab.city/)
 
@@ -84,7 +84,7 @@ Necesitamos reinventar nuestras ciudades, su relación con las personas y la nat
 
 Comunidad internacional enfocada en promover el proceso de aprendizaje mediante la incorporación de nuevas tecnologías que aportan el Knowhow de una Red Latinoamericana de Laboratorios de Fabricación Digital, con el objetivo de repensar la educación del futuro.
 
-[Pagina web oficial](https://www.fablabs.io/organizations/fab-lat-kids-b66ed4b7-43e3-490a-ae06-c0e063958b14)
+[Página web oficial](https://www.fablabs.io/organizations/fab-lat-kids-b66ed4b7-43e3-490a-ae06-c0e063958b14)
 
 #### Machines that Make (MTM)
 
@@ -96,15 +96,15 @@ Proyecto de investigación desarrollado por el CBA que busca desarrollar máquin
 
 #### BioMateriales
 
-Siguiendo la logica de contruir casi cualquier cosa dentro de los Fab Labs es que toma fuerza la idea de desarrollar materiales para farbicación digital dentro de estos. 
-Los BioMateriales son materiales hechos a partir de productos biodegradables, y por lo general residuos con el fin de cambiar los materiales que se utilizan acutalmente dentro del laboratorio por materiales sustentables que respodan a la idea de Economia Circular. 
+Siguiendo la lógica de contruir casi cualquier cosa dentro de los Fab Labs es que toma fuerza la idea de desarrollar materiales para farbicación digital dentro de estos. 
+Los BioMateriales son materiales hechos a partir de productos biodegradables, y por lo general residuos, con el fin de cambiar los materiales que se utilizan acutalmente dentro del laboratorio por materiales sustentables que respondan a la idea de Economía Circular. 
 
-[Repositorio de Formulas](https://materiom.org/)
+[Repositorio de Fórmulas](https://materiom.org/)
 
 
 ## Fab Lab UTFSM
 
-Con el fin de mejorar los procesos de gestión internos de Fab Lab UTFSM diversos trabajos han sido realizados por alumnos, como parte de sus clases o memorias, o por asesores externos. A continuación los informes en que se documentan sus trabajos: 
+Con el fin de mejorar los procesos de gestión internos de Fab Lab UTFSM, diversos trabajos han sido realizados por alumnos como parte de sus clases o memorias, o por asesores externos. A continuación los informes en que se documentan sus trabajos: 
 
 [PROPUESTA DE PLAN DE MANTENIMIENTO EN ACTIVOS CRÍTICOS DE FABLAB UNIVERSITARIO](https://github.com/FabLabUTFSM/Biobliografia_FabLabs/blob/master/Documentos/Trabajo%20de%20T%C3%ADtulo%20Francisco%20Gallardo%20(Final).pdf)
 
