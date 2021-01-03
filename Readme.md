@@ -23,6 +23,7 @@
     + [Respositorios:](#respositorios--1)
     + [Documentos recomendados](#documentos-recomendados-1)
   * [Repositorios MakerMovement/Fab Labs general](#repositorios-makermovement-fab-labs-general)
+  * [Otros espacios creativos que no son un Fab Lab](#otros-espacios-creativos-que-no-son-un-fab-lab)
 
 # Bibliográfia Fab Labs 
 
@@ -215,3 +216,7 @@ A continuación se presentan documentos, artículos, papers o softwares orientad
 ## Repositorios MakerMovement/Fab Labs general
 - [Research on the Maker Movement](https://docs.google.com/document/d/1yRyWCpd1IpTuyM7ck6xWOvAzbqNmo9B1vKRbOu_-MeE/edit#)
 - [Fab Foundation](https://library.fabfoundation.org/)
+
+## Otros espacios creativos que no son un Fab Lab
+- [Is it a Hackerspace, Makerspace, TechShop, or FabLab? (2013)](https://makezine.com/2013/05/22/the-difference-between-hackerspaces-makerspaces-techshops-and-fablabs/)
+- [What are Makerspaces, Hackerspaces, and Fab Labs? (2015)](https://www.researchgate.net/publication/304257650_What_are_Makerspaces_Hackerspaces_and_Fab_Labs)
